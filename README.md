@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Punuja Lokith</h1>
-<h3 align="center">Computer Science Undergraduate at NSBM Green University</h3>
+<h3 align="center">Computer Science Undergraduate at University Of Plymouth</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=punujalokith&label=Profile%20views&color=0e75b6&style=flat" alt="punujalokith" />
