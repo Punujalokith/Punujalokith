@@ -11,7 +11,7 @@
 - Mobile App Development with **Flutter** & **Firebase**
 
 ### 🎓 **Undergraduate at**:
-- **NSBM Green University** (Bachelor's in Computer Science)
+- **University Of Plymouth** (Bachelor's in Computer Science)
 
 ### 💬 **Ask Me About**:
 - **Web Development** and **Mobile App Development**
