@@ -52,7 +52,7 @@
 ### 📊 **GitHub Stats & Activity**
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=punujalokith&show_icons=true&theme=github_dark&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&bg_color=0d1117" alt="GitHub Stats" width="48%"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=punujalokith&theme=github-dark-blue&hide_border=false" alt="GitHub Streak" width="48%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=punujalokith&theme=github-dark-blue&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" width="48%" />
 </p>
 
 ---
